@@ -9,5 +9,5 @@ O projeto será executado aos poucos, conforme meu tempo livre. Não prometo atu
 A etapa da integração com PowerBI eu acredito até fim de Março/2020.
 
 ## Mapa Mental
-Está sendo desenvolvido em FreeMind ([Google](https://sourceforge.net/projects/freemind/)), um software de licensiamento livre, que pode ser baixado e utilizado sem grandes problemas. É bastante intuitivo e atende bem ás necessidades desta atividade.
+Está sendo desenvolvido em [FreeMind] (https://sourceforge.net/projects/freemind/), um software de licensiamento livre, que pode ser baixado e utilizado sem grandes problemas. É bastante intuitivo e atende bem ás necessidades desta atividade.
 Uma cópia do mapa mental deste projeto está sendo disponibilizada na pasta */MapaMental*. Não está totalmente pronto e sofrerá alterações conforme ideias nova surjam e os desenvolvimentos necessitem de adaptação.
