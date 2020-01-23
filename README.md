@@ -11,3 +11,12 @@ A etapa da integração com PowerBI eu acredito até fim de Março/2020.
 ## Mapa Mental
 Está sendo desenvolvido em [FreeMind] (https://sourceforge.net/projects/freemind/), um software de licensiamento livre, que pode ser baixado e utilizado sem grandes problemas. É bastante intuitivo e atende bem ás necessidades desta atividade.
 Uma cópia do mapa mental deste projeto está sendo disponibilizada na pasta */MapaMental*. Não está totalmente pronto e sofrerá alterações conforme ideias nova surjam e os desenvolvimentos necessitem de adaptação.
+
+## Dicionário
+Na pasta MapaMental existe a planilha chamada **Dicionário.xlsx** que contém uma descrição dos dicionário de dados que está em desenvolvimento. Separados por pastas existem as informações correspondentes ás tabelas SX1, SX2, SX3, SX6, SX7, SXB e SIX.
+
+### 23/01/2019
+Carga inicial do projeto:
+- Desenho do Mapa Mental inicial do projeto
+- Tabela de dicionário com a definição das 2 primeiras tabelas que serão utilizadas
+- Fonte RFINA01.PRW para manutenção das tabelas de Planejamentos e Usuários com acesso
