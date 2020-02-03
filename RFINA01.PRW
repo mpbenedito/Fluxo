@@ -111,7 +111,7 @@ oModel:getModel("ZA4Filho"):setUniqueLine({"ZA4_CODUSU"})
 Return oModel
 
 /*/{Protheus.doc} ViewDef()
-	Definição da interface de tela para manutenção do cadastro de técnicos
+	Definição da interface de tela para manutenção do cadastro de planejamentos
 	@type  Static Function
 	@author Marcelo de Paula
 	@since 21/01/2020
